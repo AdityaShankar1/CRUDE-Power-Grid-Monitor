@@ -1,0 +1,11 @@
+# Node dependencies
+node_modules/
+dist/
+# .NET build files
+bin/
+obj/
+# IDE and OS files
+.vs/
+.vscode/
+.DS_Store
+*.user
