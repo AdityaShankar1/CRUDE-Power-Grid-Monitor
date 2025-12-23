@@ -1,4 +1,3 @@
-# CRUDE-Power-Grid-Monitor
 
 # CRUDE Power Grid Monitor ⚡
 
@@ -73,3 +72,7 @@ graph TD
 1. **Database:** Ensure PostgreSQL is running (Docker).
 2. **API:** Run `dotnet run --project Crude.Api`.
 3. **Web:** Run `npm install` and `npm run dev` in the `Crude.Web` folder.
+
+## 📷 Output Screenshot:
+
+![WhatsApp Image 2025-12-24 at 00 58 56](https://github.com/user-attachments/assets/69baa0e8-005a-49c3-abd9-d0ce23b3d406)
